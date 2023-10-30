@@ -15,9 +15,16 @@ body {
     width: 90%;
     height: 500px;
     object-fit: cover;
+    margin: 5% 0% 0% 5% ;
     object-position: center;
 }
 
 section {
     margin-bottom: 30px;
+}
+#commande {
+    width: auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    /* Couleur blanche (255, 255, 255) avec une opacité de 0.3 */
 }
